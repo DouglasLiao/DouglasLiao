@@ -13,7 +13,7 @@ douglasliaozy@gmail.com | <a href="https://www.linkedin.com/in/douglas-liao-a909
 <ul>
   <li>English - basic intermediate </<li>
   <li> Chinese - basic intermediate </li>
-  <li> Portuguese - native <li>
+  <li> Portuguese - native </li>
 </ul>
 <h2> Technical Knowledge </h2>
 <h3> Education </h3>
