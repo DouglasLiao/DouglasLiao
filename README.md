@@ -2,7 +2,7 @@
 
 Control and automation engineering student - Brazilian
 
-douglasliaozy@gmail.com | <a href="https://www.linkedin.com/in/douglas-liao-a90965117/">Linkedin</a>
+<a href="https://www.linkedin.com/in/douglas-liao-a90965117/">Linkedin</a>
 
 <h2> Experience </h2>
 
@@ -12,7 +12,7 @@ douglasliaozy@gmail.com | <a href="https://www.linkedin.com/in/douglas-liao-a909
 <h2> Languages </h2>
 <ul>
   <li>English - basic intermediate </<li>
-  <li> Chinese - basic intermediate </li>
+  <li> Mandarim - basic intermediate </li>
   <li> Portuguese - native </li>
 </ul>
 <h2> Technical Knowledge </h2>
