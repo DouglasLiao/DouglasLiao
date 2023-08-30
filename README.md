@@ -1,6 +1,6 @@
 <h3>Douglas Liao </h3>
 
-Control and automation engineering student - Brazilian
+Control and automation engineering, software engineer - Brazilian
 
 <a href="https://www.linkedin.com/in/douglas-liao-a90965117/">Linkedin</a>
 
@@ -17,7 +17,7 @@ Control and automation engineering student - Brazilian
 </ul>
 <h2> Technical Knowledge </h2>
 <h3> Education </h3>
-Control and Automation Engineering - UFSC (2015/2 - ...)
+Control and Automation Engineering - UFSC (2015/2 - 2023/1)
 
 
 
