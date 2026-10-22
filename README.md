@@ -19,7 +19,7 @@ Engineer with a background in Control and Automation, passionate about software 
 ---
 
 ## Technical Knowledge
-- **Programming Languages:** Python, JavaScript, TypeScript, Golang (learning), Java, C  
+- **Programming Languages:** Python, JavaScript, TypeScript, Golang, C  
 - **Web & Frameworks:** Django, React, DRF, Tailwind CSS  
 - **Cloud & DevOps:** AWS, GCP, Docker, CI/CD pipelines  
 - **Other Tools:** Git, Linux, Protocol Buffers, SCORM  
