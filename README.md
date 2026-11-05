@@ -29,4 +29,4 @@ Engineer with a background in Control and Automation, passionate about software 
 
 ## Education
 **Control and Automation Engineering**  
-Federal University of Santa Catarina (UFSC) | 2015/2 - 2023/1  
+Federal University of Santa Catarina (UFSC) | 2015/2 - 2023/2  
