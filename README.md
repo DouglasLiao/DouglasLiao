@@ -1,32 +1,19 @@
 # Douglas Liao
 
-**Control and Automation Engineering | Software Engineer | Brazil**
+**Software Engineer · Backend Python & Go · AI Integration & Cloud**
 
-[LinkedIn](https://www.linkedin.com/in/douglas-liao-a90965117/)
+I build backend applications, APIs, and software systems, with experience in Python, Django, TypeScript, React, PostgreSQL, Docker, and automated testing. Currently expanding my work in Go, distributed systems, and AI integrations.
 
----
+### Selected projects
 
-## About Me
-Engineer with a background in Control and Automation, passionate about software development and cloud technologies. Experienced in backend development, system design, and building scalable applications. Always seeking to improve my skills and work on impactful projects.
+- **[Payroll System](https://github.com/DouglasLiao/payroll-system)** — Payroll management platform built with Django REST Framework, PostgreSQL, and React.
+- **AI Document Platform** *(planned)* — Document ingestion, semantic search, RAG, and LLM integrations with Python.
+- **Go Event Processing** *(planned)* — Concurrent event processing, reliable messaging, and observability with Go.
 
----
+### Education
 
-## Languages
-- Portuguese: Native  
-- English: Basic-Intermediate  
-- Mandarin: Basic-Intermediate  
+**B.Sc. in Control and Automation Engineering** — Federal University of Santa Catarina (UFSC), **graduated in 2023**.
 
----
+### Connect
 
-## Technical Knowledge
-- **Programming Languages:** Python, JavaScript, TypeScript, Golang, C  
-- **Web & Frameworks:** Django, React, DRF, Tailwind CSS  
-- **Cloud & DevOps:** AWS, GCP, Docker, CI/CD pipelines  
-- **Other Tools:** Git, Linux, Protocol Buffers, SCORM  
-- **Database:** PostgreSQL, MySQL  
-
----
-
-## Education
-**Control and Automation Engineering**  
-Federal University of Santa Catarina (UFSC) | 2015/2 - 2023/2  
+[LinkedIn](https://www.linkedin.com/in/douglas-liao-a90965117/) · [GitHub](https://github.com/DouglasLiao)
