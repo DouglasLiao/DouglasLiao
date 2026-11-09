@@ -1,19 +1,23 @@
 # Douglas Liao
 
-**Software Engineer · Backend Python & Go · AI Integration & Cloud**
+**Software Engineer · Backend Python/Django · React & TypeScript · learning Go**
 
-I build backend applications, APIs, and software systems, with experience in Python, Django, TypeScript, React, PostgreSQL, Docker, and automated testing. Currently expanding my work in Go, distributed systems, and AI integrations.
+I build web applications and backend services with Python, Django REST Framework, PostgreSQL, React, and TypeScript. For five years I delivered production features end to end on an enterprise device management platform, from REST APIs and async tasks to typed React interfaces. I'm now focusing on concurrency, distributed systems, and Go.
 
-### Selected projects
+## Projects
 
-- **[Payroll System](https://github.com/DouglasLiao/payroll-system)** — Payroll management platform built with Django REST Framework, PostgreSQL, and React.
-- **AI Document Platform** *(planned)* — Document ingestion, semantic search, RAG, and LLM integrations with Python.
-- **Go Event Processing** *(planned)* — Concurrent event processing, reliable messaging, and observability with Go.
+- **[Payroll System](https://github.com/DouglasLiao/payroll-system)**: payroll calculation and auditing for contractors. Django REST Framework, PostgreSQL, React, layered architecture.
+- **Pharmacy Marketplace** *(in development)*: multi-vendor pharmacy marketplace built as a modular monolith. Focus on concurrency: no overselling under simultaneous purchases, stock reservations, idempotent payment webhooks. Django, PostgreSQL, Celery, React.
+- **Stock Sync Service** *(planned)*: Go microservice that processes partner stock files in parallel with a worker pool, cancellation, rate limiting, and benchmarks.
 
-### Education
+## Tech
 
-**B.Sc. in Control and Automation Engineering** — Federal University of Santa Catarina (UFSC), **graduated in 2023**.
+Python · Django · DRF · PostgreSQL · Celery · Redis · TypeScript · React · Docker · GitHub Actions · Go (learning)
 
-### Connect
+## Education
 
-[LinkedIn](https://www.linkedin.com/in/douglas-liao-a90965117/) · [GitHub](https://github.com/DouglasLiao)
+B.Sc. in Control and Automation Engineering — Federal University of Santa Catarina (UFSC), 2023
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/douglas-liao/) · douglasliaozy@gmail.com
